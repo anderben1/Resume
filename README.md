@@ -1,43 +1,39 @@
-# Resume
-Resume
-<HTML>
-<HEAD>
-</HEAD>
-<BODY BGCOLOR=”#FFFFFF”>
-<H1>Hunter S. Jobseeker</H1>
-<TABLE WIDTH=”100%”>
-<TF><TD ALIGN=”left”>12013 Future Drive</TD>
-<TD ALIGN=”right”>Residence (305) 555-1212</TD></TR>
-<TF><TD ALIGN=”left”>New York, NY 10019</TD>
-<TD ALIGN=”right”>Message (305) 555-1213</TD></TR>
-</TD></TR>
-<TD ALIGN=”right”>Email: jobseeker@internet.com</TD></TR>
-<H2>Objective</H2>
-<TABLE><TR><TD>&nbsp;</TD>
-<TD>Marketing, public relations or sales position with a medical equipment company.</TD></TR></TABLE>
-<H2>Sales Experience</H2>
-<H3>March 2013 to Present</H3>
-<TABLE><TR><TD>&nbsp;</TD>
-<TD>Commissioned Salesperson — Fine Jewelry<BR>
-Macy’s Department Store, New York, New York<UL>
-<LI>Sell men’s and women’s jewelry, develop positive customer relations, provide sales promotion support for upper management, and maintain a product inventory worth up to $3 million.</LI>
-<LI>Achieved 100 percent or more of sales quota since employed.</LI></UL></TD></TR></TABLE>
-<H3>May 1990 to November 2012</H3>
-<TABLE><TR><TD>&nbsp;</TD>
-<TD>Commissioned Salesperson — Men’s Suits<BR>
-Barney’s, New York, New York<UL><LI>
-Sold men’s suits, established customer relations, handled staff scheduling duties, and ordered merchandise. kept track of market trends and effectively reformatted the store’s accounting system as it pertained to this department.</LI>
-<LI>Ranked first, second, or third in every sales program during period of employment.</LI></UL></TD></TR></TABLE>
-<H2>Additional Experience</H2>
-<H3>June 1987 to November 1989</H3>
-<UL><LI>Part-time and summer employment experience: Zoo Worker, Bronx Zoo, New York, summer 1987.</LI>
-<LI>Word Processor and Medical Records Assistant, Mercy Hospital, New York, September 1987 – November 1989.</LI></UL>
-<H2>Education</H2>
-<TABLE><TR><TD>&nbsp;</TD>
-<TD>Bachelor of Arts in Biology — December 1989
-<BR>Columbia University<BR>
-GPA: 3.5/4.0</TD></TR></TABLE>
-<H2>Activities</H2>
-<TABLE><TR><TD>&nbsp;</TD>
-<TD>Vice President 1989, Social Chair 1987, Pi Beta Phi Sorority</TD></TR></TABLE></BODY>
-</HTML> 
+1
+Resume example
+<html> 
+<head> 
+  <title>Ima Geeke's Resume</title> 
+</head> 
+<body bgcolor="#FFFFAA"> 
+<!-- Large, green script heading --> 
+<h1><font face="script" size="7" color="green">Ima Geeke</font></h1> 
+<!-- This image will appear as broken unless you have a file --> 
+<!-- of this name in the same directory as this HTML file.   --> 
+<img src="mypic.gif" align="right"> 
+<p>123 State Street 
+<br>Rochester, MN 55901 
+<br>(507)555-1212 
+<!-- When users click on this link, their e-mail client --> 
+<!-- opens with imageeke@geeke.com
+ in the To field.     --> 
+<br><a href="mailto:imageeke@geeke.com">imageeke@geeke.com</a></p> 
+<p align="center"><b>Objective:</b> To get a really <i>sweet</i> job.</p> 
+<p>Languages:</p> 
+<ul> 
+  <li><a href="rpg.html">RPG</a></li> 
+  <li><a href="cobol.html">COBOL</a></li> 
+  <li><a href="http://java.sun.com">Java</a></li> 
+</ul> 
+<p>Education:</p> 
+<table border=“1”> 
+  <tr> 
+    <th>School</th> 
+    <th>Degree</th> 
+  </tr> 
+  <tr> 
+    <td>PC University</td> 
+    <td>B.A. 1985</td> 
+  </tr> 
+</table> 
+</body> 
+</html> 
