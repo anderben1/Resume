@@ -14,18 +14,25 @@ Ben's Resume
 </section> 
   <section class="location-section">
   <h1>Where I am From. </h1>
-  <p>I was Born in Kulkutta India and adopted out of Childrens Home Society In St Paul, I grew up in Eau Claire Wisconsin and graduated from Memorial High School.
+  <p>I was Born in Kulkutta India and adopted out of Childrens Home Society In St Paul, I grew up in Eau Claire Wisconsin and graduated from Memorial High School. I moved when I 19 to Portland Oregon to get out of the midwest to experience life outside of it. I loved it, but I moved back 4 years ago to get seroius about a computer job and to be close to my grandfather.
   <br>
   <br>
   .</p>
 </section>
       <section class="questions-section">
-      <h1> More About Me </h1>
-    <h2>What are your hobbies?</h2>
-    My favorite hobbies include:Trivia, Video Games, Movies, TV, and Biking.
-    <br>
-    <br>
-    <h2> What is your dream job?</h2>
+      <h1> Work Experience </h1>
+   <p> MGM Liquors, Woodbury Sales Associate, July 2016-Present 
+     Duties include: Stocking; inventory management; cashiering; customer service; product knowledge and answering customer inquiries; set up displays.</p>  
+    
+   
+   
+   
+   
+   
+   
+   
+   
+   <h2> What is your dream job?</h2>
     My Dream Job would be to build awesome websites for a tidy sum of course.
     <br> 
     <br>
