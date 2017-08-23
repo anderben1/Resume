@@ -36,16 +36,8 @@ Ben's Resume
 
 Worked in both Emergency Department and Main Registration at United Hospital. Duties included: Greet and register patients as they enter the hospital, either on referral or into the emergency room; obtain patient demographic and insurance information; obtain signatures on appropriate documents; enter orders and schedule patients for procedures; verify and scan insurance and obtain benefit information; collect co-pays and deductible when appropriate; respond to requests from throughout the hospital to admit or discharge patients; update chart information at request of nurses and doctors.  </p>
               
-           <h2> What is your dream job?</h2>
-    My Dream Job would be to build awesome websites for a tidy sum of course.
-    <br> 
-    <br>
-    <h2> What music have you been listening to lately?</h2>
-    
-    I like lots of different music. I like to support the local scene, so I listen to a lot of local hip hop like Atmosphere, Brother Ali, and Heiruspecs. Also I like a lot of indie rock like The Decemberists and others.
-          </section>
-  <footer class="content-footer">
-  </ul>
-</footer>
+           <h2>Education</h2>
+   <p>Dakota County Technical College, Rosemount, Minn., attended; Century College, White Bear Lake, Minn., attended 2009-10; Memorial High School, Eau Claire, Wis., graduated 2007. </p>
+  
 </body>
 </html>
