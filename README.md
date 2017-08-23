@@ -38,6 +38,6 @@ Worked in both Emergency Department and Main Registration at United Hospital. Du
            <section>   
            <h2>Education</h2>
    <p>Dakota County Technical College, Rosemount, Minn., attended; Century College, White Bear Lake, Minn., attended 2009-10; Memorial High School, Eau Claire, Wis., graduated 2007. </p>
-  
+</section>  
 </body>
 </html>
