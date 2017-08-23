@@ -19,7 +19,7 @@ Ben's Resume
   <br>
   .</p>
 </section>
-      <section class="questions-section">
+      <section class="Work-section">
       <h1> Work Experience </h1>
    <p> MGM Liquors, Woodbury Sales Associate, July 2016-Present 
      Duties include: Stocking; inventory management; cashiering; customer service; product knowledge and answering customer inquiries; set up displays.</p>  
@@ -35,7 +35,7 @@ Ben's Resume
               Patient Access Specialist/ Radiologist Tech assistant, June 2012 to November 2013
 
 Worked in both Emergency Department and Main Registration at United Hospital. Duties included: Greet and register patients as they enter the hospital, either on referral or into the emergency room; obtain patient demographic and insurance information; obtain signatures on appropriate documents; enter orders and schedule patients for procedures; verify and scan insurance and obtain benefit information; collect co-pays and deductible when appropriate; respond to requests from throughout the hospital to admit or discharge patients; update chart information at request of nurses and doctors.  </p>
-              
+           <section>   
            <h2>Education</h2>
    <p>Dakota County Technical College, Rosemount, Minn., attended; Century College, White Bear Lake, Minn., attended 2009-10; Memorial High School, Eau Claire, Wis., graduated 2007. </p>
   
