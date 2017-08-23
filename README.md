@@ -4,8 +4,6 @@ Ben's Resume
 <!doctype html>
 <html>
 <head>
-  <link href='http://fonts.googleapis.com/css?family=Gentium+Book+Basic' rel='stylesheet' type='text/css'>
-  <link href="style.css" rel="stylesheet">
 </head>
 <body>
 <header class="masthead">  
