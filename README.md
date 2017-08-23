@@ -7,7 +7,7 @@ Ben's Resume
 <body>
   <section class="Introdcution-section">
     <h1>Introduction<br></h1>
-  <p>Hi my name is Ben Anderson and im trying to start my path towards a better life for myself through computers and Developement..</p>
+  <p>Hi my name is Ben Anderson and im trying to start my path towards a better life for myself through computers and Developement. I am a big PC gamer and lover of all things video games. I also like the outdoors alot through hiking, fishing, frisbee golf, and walking the dog.</p>
     <br>
     <br>
     <p></p> 
