@@ -14,8 +14,8 @@ Ben's Resume
     <p></p> 
 </section> 
   <section class="location-section">
-  <h1> Where I'm From </h1>
-  <p>
+  <h1>Where I am From. </h1>
+  <p>I was Born in Kulkutta India and adopted out of Childrens Home Society In St Paul, I grew up in Eau Claire Wisconsin and graduated from Memorial High School.
   <br>
   <br>
   .</p>
