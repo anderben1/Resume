@@ -25,17 +25,18 @@ Ben's Resume
      Duties include: Stocking; inventory management; cashiering; customer service; product knowledge and answering customer inquiries; set up displays.</p>  
         <p>Northern Tool and Equipment, Woodbury Sales Associate, September 2015- January 2016
           Duties include: Learning the various tools in order to help customers who come into the store with questions. Running a POS System and a Inventory System for our warehouse. Cashiering and running the front end of the store with checkout and customer service. </p>
-          
-    
-   
-   
-   
-   
-   
-   
-   
-   
-   <h2> What is your dream job?</h2>
+        <p>New Directions, White Bear Lake Group home aide
+          Duties include: Overnight supervision and assistance to developmentally disabled adults in Woodbury group home. Assistance includes distributing medications, preparing meals and other tasks to make sure clients are safe, healthy and prepared for their work day. </p>
+        <p>East Side Resources (ESR), Oakdale Driver/Direct Service Provider, April 2014 to December 2014
+          Duties included: Picking up clients at group homes and bringing them to work site; setting up work assignments and supervising clients as needed; safely returning clients to homes. 
+          <p>South Washington County School District, Woodbury Cook/Cashier/Dishwasher, March 2014 to October 2014
+             Worked at Liberty Ridge Elementary School, Woodury Minn. Duties included: making planned meals for first- through fifth-graders; serving food and ringing up charges for children during five or more lunch periods in a neat and timely manner; washing dishes and keeping a clean lunch room; setting up for breakfast and meals after school; helping with general lunch room duties.
+            <p>Allina Health System, St. Paul, Minn.
+              Patient Access Specialist/ Radiologist Tech assistant, June 2012 to November 2013
+
+Worked in both Emergency Department and Main Registration at United Hospital. Duties included: Greet and register patients as they enter the hospital, either on referral or into the emergency room; obtain patient demographic and insurance information; obtain signatures on appropriate documents; enter orders and schedule patients for procedures; verify and scan insurance and obtain benefit information; collect co-pays and deductible when appropriate; respond to requests from throughout the hospital to admit or discharge patients; update chart information at request of nurses and doctors.  </p>
+              
+           <h2> What is your dream job?</h2>
     My Dream Job would be to build awesome websites for a tidy sum of course.
     <br> 
     <br>
