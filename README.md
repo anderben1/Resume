@@ -2,7 +2,6 @@
 Resume
 <HTML>
 <HEAD>
-<TITLE>Hunter S. Jobseeker</TITLE>
 </HEAD>
 <BODY BGCOLOR=”#FFFFFF”>
 <H1>Hunter S. Jobseeker</H1>
