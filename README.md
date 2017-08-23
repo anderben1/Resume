@@ -23,6 +23,9 @@ Ben's Resume
       <h1> Work Experience </h1>
    <p> MGM Liquors, Woodbury Sales Associate, July 2016-Present 
      Duties include: Stocking; inventory management; cashiering; customer service; product knowledge and answering customer inquiries; set up displays.</p>  
+        <p>Northern Tool and Equipment, Woodbury Sales Associate, September 2015- January 2016
+          Duties include: Learning the various tools in order to help customers who come into the store with questions. Running a POS System and a Inventory System for our warehouse. Cashiering and running the front end of the store with checkout and customer service. </p>
+          
     
    
    
