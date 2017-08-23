@@ -1,7 +1,6 @@
 # Resume
 Ben's Resume
 
-<!doctype html>
 </html>
 <head>
 </head>
