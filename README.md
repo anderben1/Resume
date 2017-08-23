@@ -2,7 +2,7 @@
 Ben's Resume
 
 <!doctype html>
-<html>
+</html>
 <head>
 </head>
 <body>
