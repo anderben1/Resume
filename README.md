@@ -15,10 +15,10 @@ Ben's Resume
 </section> 
   <section class="location-section">
   <h1> Where I'm From </h1>
-  <p>I hail from the great state of Michigan, though I moved to Minnesota, where I live today, when I was just 9 years old. I love it in Minneapolis and couldn't imagine living anywhere else. That is until it's January and 50 below zero and then I pretty much want to move to Hawaii and never look back.
+  <p>
   <br>
   <br>
-  I love it in Minneapolis because it's just big enough to keep me constantly entertained, but still small enough that I don't get lost or overwhelmed here.</p>
+  .</p>
 </section>
       <section class="questions-section">
       <h1> More About Me </h1>
