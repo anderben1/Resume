@@ -6,10 +6,6 @@ Ben's Resume
 <head>
 </head>
 <body>
-<header class="masthead">  
-    <p class="masthead-intro">Hi, I'm</p>
-    <h1 class="masthead-heading">Oliver!</h1> 
-</header>
   <section class="Introdcution-section">
     <h1>Introduction<br></h1>
   <p>I'm a student learning front end web development. I love spending time with friends and family and watching lots of movies. I love the internet and I'm excited to learn how to develop content on it. I am eager to learn as much as I can so I can turn my knowledge into a career in web development.</p>
