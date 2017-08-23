@@ -1,71 +1,44 @@
 # Resume
 Resume
-  <head>
-    <title>Resume of Your Name</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  </head>
-
-  <body>
-
-    <h1>Resume of Your Name</h1>
-
-    <p>
-      123 Your Street, Your Area,<br>
-      Your City, Your State/Province and Zipcode
-    </p>
-
-    <p>
-      Your Phone Number<br>
-      Your E-mail Address
-    </p>
-
-
-    <hr>
-
-
-    <h2>Work Experiences</h2>
-
-    <h3>Your Last Job</h3>
-    <p>Briefly describe your last job. What were your responsibilities. And inclusive dates of employment.</p>
-
-    <h3>Your Next To the Last Job</h3>
-    <p>Something like the previous one. Keep doing this h3 and p sequence til you get all your jobs.</p>
-
-    <h2>Proficiencies</h2>
-
-    <ol>
-      <li>Your Primary Skill</li>
-      <li>Another Skill</li>
-      <li>Keep doing this til you've listed all your skills.</li>
-    </ol>
-
-
-    <h2>Education</h2>
-
-    <h3>College or University</h3>
-    <p>
-      Name of the School<br>
-      Field of Study<br>
-      Degree Earned<br>
-      Inclusive Dates Attended</p>
-
-    <h3>Secondary Education</h3>
-    <p>Pretty much the same information as above, minus "Field of Study" and "Degree"</p>
-
-
-    <h2>References</h2>
-
-    <h3>Mr. John Doe</h3>
-    <p>
-      Your relation to Mr. John Doe<br>
-      How to contact Mr. John Doe
-    <p>
-
-    <h3>Mrs. Jane Doe</h3>
-    <p>
-      Your relation to Mrs. Jane Doe<br>
-      How to contact Mrs. Jane Doe
-    <p>
-
-  </body>
-</html> 
+<HTML>
+<HEAD>
+<TITLE>Hunter S. Jobseeker</TITLE>
+</HEAD>
+<BODY BGCOLOR=”#FFFFFF”>
+<H1>Hunter S. Jobseeker</H1>
+<TABLE WIDTH=”100%”>
+<TF><TD ALIGN=”left”>12013 Future Drive</TD>
+<TD ALIGN=”right”>Residence (305) 555-1212</TD></TR>
+<TF><TD ALIGN=”left”>New York, NY 10019</TD>
+<TD ALIGN=”right”>Message (305) 555-1213</TD></TR>
+</TD></TR>
+<TD ALIGN=”right”>Email: jobseeker@internet.com</TD></TR>
+<H2>Objective</H2>
+<TABLE><TR><TD>&nbsp;</TD>
+<TD>Marketing, public relations or sales position with a medical equipment company.</TD></TR></TABLE>
+<H2>Sales Experience</H2>
+<H3>March 2013 to Present</H3>
+<TABLE><TR><TD>&nbsp;</TD>
+<TD>Commissioned Salesperson — Fine Jewelry<BR>
+Macy’s Department Store, New York, New York<UL>
+<LI>Sell men’s and women’s jewelry, develop positive customer relations, provide sales promotion support for upper management, and maintain a product inventory worth up to $3 million.</LI>
+<LI>Achieved 100 percent or more of sales quota since employed.</LI></UL></TD></TR></TABLE>
+<H3>May 1990 to November 2012</H3>
+<TABLE><TR><TD>&nbsp;</TD>
+<TD>Commissioned Salesperson — Men’s Suits<BR>
+Barney’s, New York, New York<UL><LI>
+Sold men’s suits, established customer relations, handled staff scheduling duties, and ordered merchandise. kept track of market trends and effectively reformatted the store’s accounting system as it pertained to this department.</LI>
+<LI>Ranked first, second, or third in every sales program during period of employment.</LI></UL></TD></TR></TABLE>
+<H2>Additional Experience</H2>
+<H3>June 1987 to November 1989</H3>
+<UL><LI>Part-time and summer employment experience: Zoo Worker, Bronx Zoo, New York, summer 1987.</LI>
+<LI>Word Processor and Medical Records Assistant, Mercy Hospital, New York, September 1987 – November 1989.</LI></UL>
+<H2>Education</H2>
+<TABLE><TR><TD>&nbsp;</TD>
+<TD>Bachelor of Arts in Biology — December 1989
+<BR>Columbia University<BR>
+GPA: 3.5/4.0</TD></TR></TABLE>
+<H2>Activities</H2>
+<TABLE><TR><TD>&nbsp;</TD>
+<TD>Vice President 1989, Social Chair 1987, Pi Beta Phi Sorority</TD></TR></TABLE></BODY>
+</HTML> 
